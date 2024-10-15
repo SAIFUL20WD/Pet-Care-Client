@@ -98,7 +98,7 @@ To run the project locally, follow these steps:
 
     The server will be running at **`http://localhost:3000`**.
 
-### Project Live Link: [Vercel](https://pet-care-server-two.vercel.app/)
+### Project Live Link: [Vercel](https://pet-care-client-sigma.vercel.app/)
 
 ## Contributing
 
